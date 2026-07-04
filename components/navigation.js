@@ -73,21 +73,11 @@ const Navigation = (props) => {
               <a className="navigation-link14">
                 <div className="navigation-logo-container">
                   <div className="navigation-logo-shield">
-                    <svg
-                      width="24"
-                      xmlns="http://www.w3.org/2000/svg"
-                      height="24"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"
-                        fill="none"
-                        stroke="currentColor"
-                        strokeWidth="2"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      ></path>
-                    </svg>
+                    <img
+                      src="/mntds1-200h.jpg"
+                      alt="image"
+                      className="navigation-image"
+                    />
                   </div>
                   <div className="navigation-logo-text">
                     <span className="navigation-brand-main">NMNYC</span>
@@ -308,6 +298,11 @@ const Navigation = (props) => {
           .navigation-link14 {
             display: contents;
           }
+          .navigation-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+          }
           .navigation-link15 {
             display: contents;
           }
@@ -340,6 +335,18 @@ const Navigation = (props) => {
           }
           .navigation-container3 {
             display: contents;
+          }
+          @media (max-width: 991px) {
+            .navigation-image {
+              width: 100%;
+              height: 100%;
+            }
+          }
+          @media (max-width: 479px) {
+            .navigation-image {
+              width: 100%;
+              height: 100%;
+            }
           }
         `}
       </style>

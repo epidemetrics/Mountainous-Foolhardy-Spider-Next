@@ -132,7 +132,7 @@ const Home = (props) => {
                 />
                 <div className="story-content">
                   <span className="story-tag">Advocacy</span>
-                  <h3>Chidi&apos;s Impact in Kano</h3>
+                  <h3>Ismail&apos;s Impact in Kano</h3>
                   <p>
                     Leading community education sessions that reduced local
                     malaria cases by 40%.
@@ -160,7 +160,7 @@ const Home = (props) => {
                 />
                 <div className="story-content">
                   <span className="story-tag">Research</span>
-                  <h3>Tunde&apos;s NTD Data</h3>
+                  <h3>Chisom&apos;s NTD Data</h3>
                   <p>
                     Mapping neglected tropical diseases to optimize government
                     intervention strategies.

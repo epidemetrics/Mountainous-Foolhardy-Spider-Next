@@ -12,10 +12,21 @@ const OurImpact = (props) => {
     <>
       <div className="our-impact-container10">
         <Head>
-          <title>Our-Impact - Mountainous Foolhardy Spider</title>
+          <title>
+            Our-Impact - Nigeria Malaria & NTD Youth Corps | Youth Action for
+            Health Equity
+          </title>
+          <meta
+            name="description"
+            content="Youth-led organization combating malaria and NTDs in Nigeria through advocacy, community outreach, volunteerism, and public health action."
+          />
           <meta
             property="og:title"
-            content="Our-Impact - Mountainous Foolhardy Spider"
+            content="Our-Impact - Nigeria Malaria &amp; NTD Youth Corps | Youth Action for Health Equity"
+          />
+          <meta
+            property="og:description"
+            content="Youth-led organization combating malaria and NTDs in Nigeria through advocacy, community outreach, volunteerism, and public health action."
           />
           <link
             rel="canonical"

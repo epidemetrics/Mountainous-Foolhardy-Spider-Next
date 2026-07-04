@@ -12,8 +12,21 @@ const Home = (props) => {
     <>
       <div className="home-container1">
         <Head>
-          <title>Mountainous Foolhardy Spider</title>
-          <meta property="og:title" content="Mountainous Foolhardy Spider" />
+          <title>
+            Nigeria Malaria & NTD Youth Corps | Youth Action for Health Equity
+          </title>
+          <meta
+            name="description"
+            content="Youth-led organization combating malaria and NTDs in Nigeria through advocacy, community outreach, volunteerism, and public health action."
+          />
+          <meta
+            property="og:title"
+            content="Nigeria Malaria &amp; NTD Youth Corps | Youth Action for Health Equity"
+          />
+          <meta
+            property="og:description"
+            content="Youth-led organization combating malaria and NTDs in Nigeria through advocacy, community outreach, volunteerism, and public health action."
+          />
           <link
             rel="canonical"
             href="https://mountainous-foolhardy-spider-9r64uu.teleporthq.site/"

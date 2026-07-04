@@ -12,10 +12,21 @@ const VolunteerHub = (props) => {
     <>
       <div className="volunteer-hub-container1">
         <Head>
-          <title>Volunteer-Hub - Mountainous Foolhardy Spider</title>
+          <title>
+            Volunteer-Hub - Nigeria Malaria & NTD Youth Corps | Youth Action for
+            Health Equity
+          </title>
+          <meta
+            name="description"
+            content="Youth-led organization combating malaria and NTDs in Nigeria through advocacy, community outreach, volunteerism, and public health action."
+          />
           <meta
             property="og:title"
-            content="Volunteer-Hub - Mountainous Foolhardy Spider"
+            content="Volunteer-Hub - Nigeria Malaria &amp; NTD Youth Corps | Youth Action for Health Equity"
+          />
+          <meta
+            property="og:description"
+            content="Youth-led organization combating malaria and NTDs in Nigeria through advocacy, community outreach, volunteerism, and public health action."
           />
           <link
             rel="canonical"

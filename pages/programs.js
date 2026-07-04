@@ -12,10 +12,21 @@ const Programs = (props) => {
     <>
       <div className="programs-container1">
         <Head>
-          <title>Programs - Mountainous Foolhardy Spider</title>
+          <title>
+            Programs - Nigeria Malaria & NTD Youth Corps | Youth Action for
+            Health Equity
+          </title>
+          <meta
+            name="description"
+            content="Youth-led organization combating malaria and NTDs in Nigeria through advocacy, community outreach, volunteerism, and public health action."
+          />
           <meta
             property="og:title"
-            content="Programs - Mountainous Foolhardy Spider"
+            content="Programs - Nigeria Malaria &amp; NTD Youth Corps | Youth Action for Health Equity"
+          />
+          <meta
+            property="og:description"
+            content="Youth-led organization combating malaria and NTDs in Nigeria through advocacy, community outreach, volunteerism, and public health action."
           />
           <link
             rel="canonical"

@@ -31,6 +31,11 @@ const Footer = (props) => {
                         <path d="m9 12l2 2l4-4"></path>
                       </g>
                     </svg>
+                    <img
+                      src="/mntds1-200h.jpg"
+                      alt="image"
+                      className="footer-image"
+                    />
                   </div>
                   <span className="footer-brand-name">NMNYC</span>
                 </div>
@@ -450,6 +455,11 @@ const Footer = (props) => {
           .footer-container1 {
             display: contents;
           }
+          .footer-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+          }
           .footer-link10 {
             display: contents;
           }
@@ -476,6 +486,24 @@ const Footer = (props) => {
           }
           .footer-container3 {
             display: contents;
+          }
+          @media (max-width: 991px) {
+            .footer-image {
+              width: 100%;
+              height: 100%;
+            }
+          }
+          @media (max-width: 767px) {
+            .footer-image {
+              width: 100%;
+              height: 100%;
+            }
+          }
+          @media (max-width: 479px) {
+            .footer-image {
+              width: 100%;
+              height: 100%;
+            }
           }
         `}
       </style>

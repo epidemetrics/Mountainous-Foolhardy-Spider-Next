@@ -4167,6 +4167,9 @@
   .news-card {
     flex: 0 0 280px;
   }
+  .impact-number {
+    font-size: var(--font-size-2xl);
+  }
   .opportunities-grid {
     grid-template-columns: 1fr;
   }

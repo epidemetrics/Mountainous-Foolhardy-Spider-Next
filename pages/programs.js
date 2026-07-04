@@ -749,7 +749,7 @@ const Programs = (props) => {
                 <div className="testimonial-image">
                   <img
                     alt="Sarah Adams"
-                    src="https://images.pexels.com/photos/34717769/pexels-photo-34717769.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1500"
+                    src="https://images.pexels.com/photos/34717769/pexels-photo-34717769.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=200"
                   />
                 </div>
                 <div className="testimonial-content">
@@ -770,7 +770,7 @@ const Programs = (props) => {
                 <div className="testimonial-image">
                   <img
                     alt="Ibrahim Musa"
-                    src="https://images.pexels.com/photos/37285156/pexels-photo-37285156.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1500"
+                    src="https://images.pexels.com/photos/37285156/pexels-photo-37285156.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=200"
                   />
                 </div>
                 <div className="testimonial-content">
@@ -791,7 +791,7 @@ const Programs = (props) => {
                 <div className="testimonial-image">
                   <img
                     alt="Dr. Amaka Okafor"
-                    src="https://images.pexels.com/photos/33127693/pexels-photo-33127693.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1500"
+                    src="https://images.pexels.com/photos/33127693/pexels-photo-33127693.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=200"
                   />
                 </div>
                 <div className="testimonial-content">
@@ -810,7 +810,7 @@ const Programs = (props) => {
                 <div className="testimonial-image">
                   <img
                     alt="Blessing Etim"
-                    src="https://images.pexels.com/photos/9823014/pexels-photo-9823014.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1500"
+                    src="https://images.pexels.com/photos/9823014/pexels-photo-9823014.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=200"
                   />
                 </div>
                 <div className="testimonial-content">
@@ -845,7 +845,7 @@ const Programs = (props) => {
                 <div className="team-photo">
                   <img
                     alt="Program Director"
-                    src="https://images.pexels.com/photos/33127869/pexels-photo-33127869.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1500"
+                    src="https://images.pexels.com/photos/33127869/pexels-photo-33127869.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=200"
                   />
                 </div>
                 <div className="team-info">
@@ -864,7 +864,7 @@ const Programs = (props) => {
                 <div className="team-photo">
                   <img
                     alt="Operations Lead"
-                    src="https://images.pexels.com/photos/35043676/pexels-photo-35043676.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1500"
+                    src="https://images.pexels.com/photos/35043676/pexels-photo-35043676.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=200"
                   />
                 </div>
                 <div className="team-info">
@@ -883,7 +883,7 @@ const Programs = (props) => {
                 <div className="team-photo">
                   <img
                     alt="NTD Lead"
-                    src="https://images.pexels.com/photos/34185235/pexels-photo-34185235.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1500"
+                    src="https://images.pexels.com/photos/34185235/pexels-photo-34185235.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=200"
                   />
                 </div>
                 <div className="team-info">

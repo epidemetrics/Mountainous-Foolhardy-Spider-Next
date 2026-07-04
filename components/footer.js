@@ -376,7 +376,7 @@ const Footer = (props) => {
                         <rect x="2" y="4" rx="2" width="20" height="16"></rect>
                       </g>
                     </svg>
-                    <span>impact@nmnyc.com</span>
+                    <span>impact@nmntdsyc.com</span>
                   </li>
                 </ul>
               </div>

@@ -664,13 +664,13 @@ const Home = (props) => {
                 <span>USAID</span>
               </div>
               <div className="partner-logo">
-                <span>Bill &amp; Melinda Gates Foundation</span>
+                <span>RBM Partnership to end Malaria</span>
               </div>
               <div className="partner-logo">
                 <span>Federal Ministry of Health</span>
               </div>
               <div className="partner-logo">
-                <span>WHO Nigeria</span>
+                <span>African Leaders Malaria Alliance (ALMA)</span>
               </div>
               <div className="partner-logo">
                 <span>UNICEF</span>
